@@ -1,3 +1,2 @@
-import requests
-import random
-os.system('exit')
+print('COMMAND BECAME FULLY SHUTDOWN')
+print('USE NEW AND WORKING COMMAND')
